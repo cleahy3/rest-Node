@@ -1,0 +1,26 @@
+{
+  "name": "rest-node",
+  "version": "1.0.0",
+  "description": "creating a cheese rest",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cleahy3/rest-Node.git"
+  },
+  "keywords": [
+    "Cheesey"
+  ],
+  "author": "Callum, Alan, Jacob",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cleahy3/rest-Node/issues"
+  },
+  "homepage": "https://github.com/cleahy3/rest-Node#readme"
+}
